@@ -1,5 +1,4 @@
 #include<fstream>
-#include<iostream>
 #include<string>
 #include<sstream>
 #include<vector>
@@ -52,7 +51,6 @@ std::string MarkdownTransform::getContents()
 		{
 			md2html_outfile += (*ptr) + '\n';
 		}
-		//std::cout << get_oneline_new;
 		fin.close();
 	}
 	return md2html_outfile;
