@@ -980,7 +980,7 @@ void MarkdownTransform::process_image(std::vector<std::string>::iterator&viter, 
 	}
 	viter = initialviter;
 }
-//处理字符串转化为<a href=""></a>
+//处理字符串转化为<img>
 std::string MarkdownTransform::assist_image(std::string &str, std::regex &urlr, std::regex &titler, std::regex & contentr)
 {
 	std::string newstr;
