@@ -1,3 +1,5 @@
+By Lixin Liu
+
 ### Summary ###
 This is a project found in [shiyanlou.com](https://www.shiyanlou.com/courses/569), a markdown interpreter written in CPP，[specific requirements](https://zhuanlan.zhihu.com/p/21951150)can be found in this page.
 
