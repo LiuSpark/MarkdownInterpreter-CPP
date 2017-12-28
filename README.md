@@ -27,12 +27,12 @@ In this Markdown interpreter, the file I/O stream is used. The \*.md file is rea
 
 ### Structure
 + code
-++ main.cpp
-++ mdtransform.h
-++ mdtransform.cpp
+  + main.cpp
+  + mdtransform.h
+  + mdtransform.cpp
 
 + markdown file
- + test.md
+  + test.md
  
 + output file
   + index.html
