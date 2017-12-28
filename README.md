@@ -7,14 +7,14 @@ This is a project found in [shiyanlou.com](https://www.shiyanlou.com/courses/569
 In this Markdown interpreter, the file I/O stream is used. The \*.md file is read into CPP. Then, strings are changed into HTML files.
 
 ### Function
-1.Multi-level title
-2.Code and code blocks
-3.Multi-level references
-4.Disordered, ordered list
-5.Escape characters
-6.Bold, italic
-7.Dividing line
-8.Hyperlinks and pictures
+1. Multi-level title
+2. Code and code blocks
+3. Multi-level references
+4. Disordered, ordered list
+5. Escape characters
+6. Bold, italic
+7. Dividing line
+8. Hyperlinks and pictures
 
 ### Libraries
 + fstream
@@ -27,9 +27,9 @@ In this Markdown interpreter, the file I/O stream is used. The \*.md file is rea
 
 ### Structure
 + code
- + main.cpp
- + mdtransform.h
- + mdtransform.cpp
+++ main.cpp
+++ mdtransform.h
+++ mdtransform.cpp
 
 + markdown file
  + test.md
