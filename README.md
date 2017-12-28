@@ -30,8 +30,10 @@ In this Markdown interpreter, the file I/O stream is used. The \*.md file is rea
  + main.cpp
  + mdtransform.h
  + mdtransform.cpp
+
 + markdown file
  + test.md
+ 
 + output file
   + index.html
   + my-markdown.css  
